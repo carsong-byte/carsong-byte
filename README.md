@@ -37,7 +37,6 @@ Pforzheimer Honors College
 - Economic Modeling  
 - Research & Policy Analysis  
 - Excel / Spreadsheets  
-- Git & GitHub  
 - Clear Technical Documentation  
 
 ---
